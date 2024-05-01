@@ -1,3 +1,12 @@
 {
-  "hov": "555555"
+  "codeEditors" : [
+    {
+      "name": "GITHUB",
+      "link":"https://github.com/"  
+    },
+    {
+      "name": "Stackblitz",
+      "link":"https://stackblitz.com/"  
+    }
+  ]
 }

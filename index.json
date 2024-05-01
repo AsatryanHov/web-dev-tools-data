@@ -7,6 +7,14 @@
     {
       "name": "Stackblitz",
       "link":"https://stackblitz.com/"  
+    },
+    {
+      "name": "JSfiddle",
+      "link":"https://jsfiddle.net/"  
+    },
+    {
+      "name": "Codepen",
+      "link":"https://codepen.io/"  
     }
   ]
 }

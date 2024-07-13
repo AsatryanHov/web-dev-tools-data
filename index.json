@@ -33,6 +33,20 @@
       "link":"https://validator.w3.org/"  
     }
   
+],
+
+  "Tools" : [
+   {
+      "id" : "1",
+      "name": "Can in use",
+      "link":"https://caniuse.com/"  
+    },
+    {
+      "id" : "2",
+      "name": "W3 validator",
+      "link":"https://validator.w3.org/"  
+    }
+  
 ]
   
 }

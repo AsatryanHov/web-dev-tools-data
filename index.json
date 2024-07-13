@@ -35,7 +35,7 @@
   
 ],
 
-  "Tools" : [
+  "tools" : [
    {
       "id" : "1",
       "name": "Can in use",

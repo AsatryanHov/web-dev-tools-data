@@ -1,52 +1,68 @@
-{
-  "codeEditors" : [
-    {
-      "id" : "1",
-      "name": "GITHUB",
-      "link":"https://github.com/"  
-    },
-    {
-      "id" : "2",
-      "name": "Stackblitz",
-      "link":"https://stackblitz.com/"  
-    },
-    {
-      "id" : "3",
-      "name": "JSfiddle",
-      "link":"https://jsfiddle.net/"  
-    },
-    {
-      "id" : "4",
-      "name": "Codepen",
-      "link":"https://codepen.io/"  
-    }
-  ],
-"optimization" : [
-   {
-      "id" : "1",
-      "name": "Image optimization",
-      "link": "https://imagecompressor.com/ru/"  
-    },
-    {
-      "id" : "2",
-      "name": "W3 validator",
-      "link":"https://validator.w3.org/"  
-    }
-  
-],
 
-  "tools" : [
-   {
-      "id" : "1",
-      "name": "Can in use",
-      "link": "https://caniuse.com/"  
-    },
-    {
-      "id" : "2",
-      "name": "W3 validator",
-      "link":"https://validator.w3.org/"  
-    }
+
+
+
+
+{
+    "codeEditors" : [
+      {
+        "id" : "1",
+        "name": "GITHUB",
+        "link":"https://github.com/"  
+      },
+      {
+        "id" : "2",
+        "name": "Stackblitz",
+        "link":"https://stackblitz.com/"  
+      },
+      {
+        "id" : "3",
+        "name": "JSfiddle",
+        "link":"https://jsfiddle.net/"  
+      },
+      {
+        "id" : "4",
+        "name": "Codepen",
+        "link":"https://codepen.io/"  
+      }
+    ],
+  "optimization" : [
+     {
+        "id" : "1",
+        "name": "Image optimization",
+        "link": "https://imagecompressor.com/ru/"  
+      },
+      {
+        "id" : "2",
+        "name": "W3 validator",
+        "link":"https://validator.w3.org/"  
+      }
+    
+  ],
   
-]
-  
-}
+    "tools" : [
+     {
+        "id" : "1",
+        "name": "Can in use",
+        "link": "https://caniuse.com/"  
+      },
+      {
+        "id" : "2",
+        "name": "Check your social media share previews",
+        "link":"https://socialsharepreview.com/"  
+      },
+      {
+        "id" : "3",
+        "name": "SEO online checker",
+        "link":"https://suite.seotesteronline.com/"  
+      },
+
+      {
+        "id" : "4",
+        "name": "IMG on Server imgur.com",
+        "link":"https://imgur.com/"  
+      }
+    
+  ]
+    
+  }

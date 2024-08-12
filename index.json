@@ -2,6 +2,7 @@
 
 
 
+
 {
   "codeEditors": [{
       "id": "1",
@@ -22,18 +23,7 @@
       "id": "4",
       "name": "Codepen",
       "link": "https://codepen.io/"
-    },
-    {
-      "id": "5",
-      "name": "Playcode online editor",
-      "link": "https://playcode.io/"
-    },
-     {
-      "id": "6",
-      "name": "CodeSanbox online editor",
-      "link": "https://codesandbox.io/"
     }
-
   ],
 
   "optimization": [{
@@ -78,10 +68,27 @@
     },
 
     {
-      "id": "",
+      "id": "6",
       "name": "Rico's cheatsheets",
       "link": "https://devhints.io/"
+    },
+
+    {
+      "id": "7",
+      "name": "Example files",
+      "link": "https://www.examplefile.com/"
+    },
+    {
+      "id": "8",
+      "name": "Gemini AI",
+      "link": "https://gemini.google.com/app"
     }
+
+
+
+
+
+
   ],
 
   "js-tools": [{
